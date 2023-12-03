@@ -10,6 +10,25 @@
     },
     "items": [
         {
+            "id": "https://alimie.org/menulis-blog-menggunakan-static-site-generator-publii/",
+            "url": "https://alimie.org/menulis-blog-menggunakan-static-site-generator-publii/",
+            "title": "Kembali Menulis Blog Menggunakan &#x27;Static Site Generator&#x27; (SSG) Publii",
+            "summary": "Banyak yang berlaku dalam masa beberapa tahun (ya, tahun!) berhenti menulis di sini. Antaranya ialah saya kehilangan domain yang asal&hellip;",
+            "content_html": "<p>Banyak yang berlaku dalam masa beberapa tahun (ya, tahun!) berhenti menulis di sini. Antaranya ialah saya kehilangan domain yang asal yang digunakan untuk blog ini iaitu alimie[dot]com kerana terlupa untuk membuat bayaran tahunan kepada pendaftar domain.</p>\n<p>Saya juga telah lebih setahun berpindah lokasi kerja dari Sarawak ke Kelantan. Setelah menyelesaikan beberapa perkara berkaitan urusan kehidupan, rasanya tiada alasan lagi untuk tidak sambung menulis di sini.</p>\n<p>Sebelum ini saya menggunakan platform WordPress untuk menulis, namun dengan WordPress, banyak kos berbangkit yang perlu turut dibayar antaranya ialah kos hosting yang boleh mencecah sehingga RM200 setahun, sedangkan tiada sebarang pulangan eksplisit yang saya dapat daripada blog ini.</p>\n<p>Oleh itu, saya membuat keputusan untuk menukar platform untuk berblog daripada WordPress kepada sesuatu yang lebih kos efektif dan setelah beberapa lama mengkaji, saya memilih untuk menggunakan 'static site generator' (SSG) Publii.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/2c68ChC2-Y4?si=uFysLBRG7_uDEn3W&amp;controls=0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p>Penggunaan platform Publii ini akan menghasilkan sebuah blog ataupun website dalam bentuk fail statik html, css dan javascript. Maknanya, pelayar web yang melawat blog 'static site' ini akan melihat kandungan yang sama tanpa mengira umur ataupun lokasi.</p>\n<p>Berbeza dengan WordPress yang menghasilkan 'dynamic site' yang mana pemilik 'dynamic site' ini boleh memilih untuk memaparkan kandungan yang berbeza untuk pengunjung yang berbeza. Contoh yang paling mudah untuk difahami ialah website Shopee. Paparan muka depan (homepage) yang saya lawati mungkin akan sangat berbeza (dari segi barang jualan yang dipamerkan) berbanding orang lain.</p>\n<p>Oleh sebab saya tiada keperluan untuk memaparkan kandungan yang berbeza kepada pengunjung yang berbeza, maka platform SSG seperti Publii ini sangat sesuai untuk saya gunakan. Bahagian dinamik seperti ruang komen, mungkin akan saya letak suatu masa nanti 😉</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>",
+            "image": "https://alimie.org/media/posts/27/publii-cms.webp",
+            "author": {
+                "name": "Ali"
+            },
+            "tags": [
+                   "wordpress",
+                   "publii",
+                   "hosting",
+                   "Blog Peribadi"
+            ],
+            "date_published": "2023-12-03T21:02:29+08:00",
+            "date_modified": "2023-12-03T21:02:29+08:00"
+        },
+        {
             "id": "https://alimie.org/hubungi/",
             "url": "https://alimie.org/hubungi/",
             "title": "Hubungi",
