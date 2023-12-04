@@ -3,12 +3,50 @@
     <title>Alimie.</title>
     <link href="https://alimie.org/feed.xml" rel="self" />
     <link href="https://alimie.org" />
-    <updated>2023-12-03T21:02:29+08:00</updated>
+    <updated>2023-12-04T23:30:17+08:00</updated>
     <author>
         <name>Ali</name>
     </author>
     <id>https://alimie.org</id>
 
+    <entry>
+        <title>Memulakan Kembali Servis Rekaan Grafik dan Pembangunan Laman Web</title>
+        <author>
+            <name>Ali</name>
+        </author>
+        <link href="https://alimie.org/servis-rekaan-grafik-dan-pembangunan-laman-web/"/>
+        <id>https://alimie.org/servis-rekaan-grafik-dan-pembangunan-laman-web/</id>
+        <media:content url="https://alimie.org/media/posts/28/rekaanbannerfb.jpg" medium="image" />
+            <category term="wordpress"/>
+            <category term="Servis Bina Web"/>
+            <category term="Reka Grafik"/>
+            <category term="Kedai Online"/>
+            <category term="Banner"/>
+
+        <updated>2023-12-04T23:30:17+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://alimie.org/media/posts/28/rekaanbannerfb.jpg" alt="Servis Design dan Website Amzg Resources" />
+                    Saya mempunyai satu perniagaan jenis perkhidmatan yang berdaftar di bawah SSM dengan nama AMZG Resources. Walaupun telah lama didaftarkan, namun&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://alimie.org/media/posts/28/rekaanbannerfb.jpg" class="type:primaryImage" alt="Servis Design dan Website Amzg Resources" /></p>
+                <p>Saya mempunyai satu perniagaan jenis perkhidmatan yang berdaftar di bawah SSM dengan nama AMZG Resources. Walaupun telah lama didaftarkan, namun bisnes ini tidaklah saya jalankan dengan bersungguh-sungguh.</p>
+<p>Antara perkhidmatan yang saya tawarkan melalui bisnes ini ialah perkhidmatan membina laman web serta khidmat reka grafik. Bagi perkhidmatan membina laman web, saya akan membantu membangunkan laman web yang dikehendaki oleh klien samada laman web korporat, blog ataupun web e-commerce.</p>
+<p>Bagi perkhidmatan reka grafik pula, saya pernah menyediakan servis rekaan web banner (untuk dipaparkan di laman web) serta rekaan bunting dan banner yang boleh dicetak klien di kedai-kedai percetakan.</p>
+<p>Saya dalam proses melengkapkan portfolio contoh-contoh rekaan grafik dan laman web yang dibangunkan, sebagai rujukan kepada sesiapa saja yang berminat untuk mendapatkan kedua-dua jenis perkhidmatan daripada saya ini.</p>
+<p>Sekiranya ada yang berminat (sebelum portfolio ini disiapkan), anda boleh terus hubungi saya menggunakan butang di bawah ini ataupun melalui emel yang telah dinyatakan di ruangan Hubungi di blog ini. Terima kasih 😊</p>
+<figure class="post__image"><a href="https://wa.me/60179123484" title="whatsapp amzg" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://alimie.org/media/posts/28/WhatsAppButtonGreenMedium.png" alt="Chat on Whatsapp" width="255" height="54" sizes="(max-width: 48em) 100vw, 768px" srcset="https://alimie.org/media/posts/28/responsive/WhatsAppButtonGreenMedium-xs.png 300w ,https://alimie.org/media/posts/28/responsive/WhatsAppButtonGreenMedium-sm.png 480w ,https://alimie.org/media/posts/28/responsive/WhatsAppButtonGreenMedium-md.png 768w"></figure></a></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Kembali Menulis Blog Menggunakan &#x27;Static Site Generator&#x27; (SSG) Publii</title>
         <author>
@@ -67,6 +105,246 @@
             <![CDATA[
                 <p><!-- wp:paragraph --></p>
 <p>Mahu hubungi saya? Anda boleh emel ke <strong>contact[at]alimie.org</strong>.</p>
+<p><!-- /wp:paragraph --></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Privacy Policy</title>
+        <author>
+            <name>Ali</name>
+        </author>
+        <link href="https://alimie.org/privacy-policy/"/>
+        <id>https://alimie.org/privacy-policy/</id>
+
+        <updated>2023-12-04T09:50:31+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Alimie[dot]org (the blog), accessible from https://alimie.org, one of our main priorities is the privacy of our visitors. This Privacy Policy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><!-- wp:heading --></p>
+<p>Alimie[dot]org (the blog), accessible from https://alimie.org, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by the blog and how we use it.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in the blog. This policy is not applicable to any information collected offline or via channels other than this website.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Consent</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>By using our website, you hereby consent to our Privacy Policy and agree to its terms.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Information we collect</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">How we use your information</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>We use the information we collect in various ways, including to:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- wp:list-item -->
+<li>Provide, operate, and maintain our website</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Improve, personalize, and expand our website</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Understand and analyze how you use our website</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Develop new products, services, features, and functionality</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Send you emails</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- wp:list-item --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Find and prevent fraud</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Log Files</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The blog follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Cookies and Web Beacons</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Like any other website, the blog uses "cookies". These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Google DoubleClick DART Cookie</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Our Advertising Partners</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:list --></p>
+<ul>
+<li style="list-style-type: none;">
+<ul><!-- wp:list-item -->
+<li>Google <a href="https://policies.google.com/technologies/ads">https://policies.google.com/technologies/ads</a></li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Advertising Partners Privacy Policies</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>You may consult this list to find the Privacy Policy for each of the advertising partners of Alimie[dot]org.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on the blog, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Note that the blog has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Third Party Privacy Policies</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>The blog's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">CCPA Privacy Rights (Do Not Sell My Personal Information)</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Under the CCPA, among other rights, California consumers have the right to:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Request that a business delete any personal data about the consumer that a business has collected.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">GDPR Data Protection Rights</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to erasure – You have the right to request that we erase your personal data, under certain conditions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Children's Information</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>The blog does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Changes to This Privacy Policy</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Our Privacy Policy was created with the help of the <a href="https://www.termsfeed.com/privacy-policy-generator/">Privacy Policy Generator</a>.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:heading --></p>
+<h2 class="wp-block-heading">Contact Us</h2>
+<p><!-- /wp:heading --></p>
+<p><!-- wp:paragraph --></p>
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
@@ -502,52 +780,6 @@
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:paragraph --></p>
 <p>Itu sahajalah sedikit sebanyak pegalaman pertama saya menggunakan perkhidmatan MasKargo :)</p>
-<p><!-- /wp:paragraph --></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Permulaan Baru Blog</title>
-        <author>
-            <name>Ali</name>
-        </author>
-        <link href="https://alimie.org/permulaan-baru-blog/"/>
-        <id>https://alimie.org/permulaan-baru-blog/</id>
-        <media:content url="https://alimie.org/media/posts/21/blog.jpg" medium="image" />
-
-        <updated>2023-12-02T13:27:54+08:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://alimie.org/media/posts/21/blog.jpg" alt="" />
-                    <p><!-- wp:paragraph --></p>
-<p>Bismillahirrahmaanirrahiim. Alhamdulillah, akhirnya dapat saya setup semula blog peribadi ini selepas beberapa masalah teknikal yang berlaku.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Bukan senang untuk maintain menulis dalam satu-satu blog apabila tuan punya blog itu bekerja di tempat yang tiada talian telefon dan internet serta letaknya pula adalah hampir 7 jam dari bandar terdekat, dengan separuh daripada perjalanan tersebut adalah melalui jalan balak melintasi gaung dan tebing tinggi yang bila-bila masa saja boleh berlaku tanah runtuh.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:more --></p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://alimie.org/media/posts/21/blog.jpg" class="type:primaryImage" alt="" /></p>
-                <p><!-- wp:paragraph --></p>
-<p>Bismillahirrahmaanirrahiim. Alhamdulillah, akhirnya dapat saya setup semula blog peribadi ini selepas beberapa masalah teknikal yang berlaku.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Bukan senang untuk maintain menulis dalam satu-satu blog apabila tuan punya blog itu bekerja di tempat yang tiada talian telefon dan internet serta letaknya pula adalah hampir 7 jam dari bandar terdekat, dengan separuh daripada perjalanan tersebut adalah melalui jalan balak melintasi gaung dan tebing tinggi yang bila-bila masa saja boleh berlaku tanah runtuh.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:more --></p>
-<!-- /wp:more -->
-<p><!-- wp:paragraph --></p>
-<p>Sedikit emosi. Bukan apa, banyak kandungan dalam blog sebelum ini hilang begitu sahaja tanpa dapat diselamatkan.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Walau bagaimanapun, saya akan anggap ini sebagai satu peluang untuk permulaan baru blog. Saya cuba menjadi seorang yang memandang satu-satu masalah daripada sudut yang positif kerana saya pernah terbaca bahawa, orang yang besar jiwanya, adalah orang yang dapat menerima sesuatu perkara itu dengan berlapang dada.</p>
-<p><!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Moga dipermudahkan sekali ini.</p>
 <p><!-- /wp:paragraph --></p>
             ]]>
         </content>
